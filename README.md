@@ -1,5 +1,12 @@
 # debate-hub
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/debate-hub/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/debate-hub/actions)
+![License](https://img.shields.io/github/license/yksanjo/debate-hub)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/debate-hub)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/debate-hub)
+
 ## Detailed Description
 
 debate-hub is maintained as an industry-grade software project with production-ready engineering practices.  
